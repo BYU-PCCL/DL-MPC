@@ -23,7 +23,7 @@ To download data:
 
 
 ## Authors
-This code is provided by Taylor Sorensen, Curtis Johnson, and Tyler Quackenbush. For any questions, please reach out to Taylor at tsor1313@gmail.com.
+This code is provided by Taylor Sorensen, Curtis Johnson, Tyler Quackenbush, David Wingate, and Marc Killpack. For any questions, please reach out to Taylor at tsor1313@gmail.com.
 
 ## Usage
 
@@ -31,7 +31,7 @@ To generate your own plots for how well the models fit the data, run
 ```
 python3 inference.py
 ```
-This will generate 10 random plots for both simulated first-principles Data and hardware data. It outputs these plots under `./plots/`.
+This will generate 10 random plots for both simulated first-principles data and hardware data. It outputs these plots under `./plots/`.
 
 If you wish to retrain the models on the data, run
 ```
