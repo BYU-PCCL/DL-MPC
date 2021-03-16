@@ -43,7 +43,7 @@ python3 train_error.py
 
 Let us look at some example plots we used to validate our models. The following are not cherry picked.
 
-![Simulated Data](plots/simulated2.png?raw=true "Simulated Data")
+![Simulated Data](plots/simulated0.png?raw=true "Simulated Data")
 To explain the plot: the models are all shown the initial state, and try to predict the next 100 states, given the inputs to the robot.
 
 Each state is 8-dimensional, so we show how well it estimates all states.
