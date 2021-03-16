@@ -10,12 +10,17 @@ The goals for this repository are the following:
 - Show an example of how you would use the models for inference/control
 - Make our methodology more transparent to allow for easier replication
 
+This repo contains all data used and all training code used for the paper. There is also a script for inference that you can use to simulate your own plots to see how the models fit the data.
+
+## Setup
 To clone repo, run:
 ```bash
 git clone https://github.com/tsor13/DL-MPC
 ```
+To download data:
+- Linux: `sh download_linux.sh`
+- Mac or Windows: Download and unzip models (https://ndownloader.figshare.com/files/26840927) and data (https://ndownloader.figshare.com/files/26841041) into root repo directory.
 
-This repo contains all data used and all training code used for the paper. There is also a script for inference that you can use to simulate your own plots to see how the models fit the data.
 
 ## Authors
 This code is provided by Taylor Sorensen, Curtis Johnson, and Tyler Quackenbush. For any questions, please reach out to Taylor at tsor1313@gmail.com.
