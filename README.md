@@ -5,7 +5,7 @@
 This is a companion repository to the paper "Combining First-Principles and Deep Learning for Model Predictive Control."
 
 The goals for this repository are the following:
-- Provide all data used for the experiments (contained in `./data/`)
+- Provide all data used for the experiments
 - Provide all training code
 - Show an example of how you would use the models for inference/control
 - Make our methodology more transparent to allow for easier replication
