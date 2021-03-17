@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a companion repository to the paper "Using First Principles for Deep Learning andModel-Based Control of Soft Robots."
+This is a companion repository to the paper "Using First Principles for Deep Learning and Model-Based Control of Soft Robots."
 
 The goals for this repository are the following:
 - Provide all data used for the experiments
